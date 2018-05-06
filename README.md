@@ -1,4 +1,4 @@
-##Explanation:
+## Explanation:
     <br>
     **file: index.js**
      <br>
@@ -15,7 +15,7 @@
     I used for loop (O(n)) to iterate through JSON and find its matching values. And then, print out list of the companies and the total number of the companies.
  <br>
   <br>
-##Instructions that explains how to set up and run your project:
+## Instructions that explains how to set up and run your project:
  <br>
 In command line/terminal:
  <br>
@@ -29,7 +29,7 @@ Then for runnable solution:
  <br>
 node index.js <\jsonfile> <\instruction> <\value>
  <br>
-######Example:
+###### Example:
  <br>
     - node index.js data.json find_type Data/Technology
     - node index.js data.json find_after 2000
