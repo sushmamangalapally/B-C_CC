@@ -1,4 +1,5 @@
 Explanation:
+    <br>
     file: index.js
     I chose JavaScript, since the JSON is loaded into a JavaScript object, it seems best to use JavaScript to query JSON data.
     I also use node.js for input entry (node index.js data.json find_type Data/Technology)
