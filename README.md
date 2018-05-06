@@ -1,5 +1,4 @@
 ## Explanation:
-    <br>
     **file: index.js**
      <br>
     I chose JavaScript, since the JSON is loaded into a JavaScript object, it seems best to use JavaScript to query JSON data.
@@ -13,8 +12,8 @@
     Because the comparison were in string, I created a object that holds function expression (compareSigns) to grab the comparison string and to evaluate the parameters.
      <br>
     I used for loop (O(n)) to iterate through JSON and find its matching values. And then, print out list of the companies and the total number of the companies.
- <br>
-  <br>
+
+
 ## Instructions that explains how to set up and run your project:
  <br>
 In command line/terminal:
@@ -37,7 +36,7 @@ node index.js <\jsonfile> <\instruction> <\value>
     - node index.js data.json locate MD 
     <br>
      <br>
-##For testing:
+## For testing:
  <br>
     **file: test/indexTest.js**
      <br>
