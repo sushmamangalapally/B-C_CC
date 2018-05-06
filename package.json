@@ -1,0 +1,16 @@
+{
+  "name": "bc_cc",
+  "version": "1.0.0",
+  "description": "Bain and Company Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1",
+    "node": "^10.0.0"
+  }
+}
